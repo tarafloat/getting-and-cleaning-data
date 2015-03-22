@@ -14,6 +14,6 @@ Step 3:  Merge the training and the test sets together. function: rbind().
 
 Step 4: Extract only the columns containing standard deviation or mean. function: grep().
 
-Step 5 & 6: Uses descriptive activity names to rename the activities in the data set.  
+Step 5 & 6: Uses descriptive activity names to rename the activities in the data set. function: names(). 
 
-Step 7:  creates a second independent tidy data set with the average of each variable for each activity and each subject. 
+Step 7:  creates a second independent tidy data set with the average of each variable for each activity and each subject.
