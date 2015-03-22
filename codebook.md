@@ -15,12 +15,12 @@ Step 4: Extract only the columns containing standard deviation or mean. function
 
 Step 5 & 6: Uses descriptive activity names to rename the activities in the data set. function: names(). 
             Each person performs six activities: 
-            walking
-            walkingupstairs
-            walkingdownstairs
-            sitting
-            standing
-            laying
+            walking； 
+            walkingupstairs；
+            walkingdownstairs；
+            sitting；
+            standing；
+            laying.
 
 Step 7:  creates a second independent tidy data set with the average of each variable for each activity and each subject.
 
