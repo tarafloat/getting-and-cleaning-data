@@ -94,20 +94,20 @@ The following variables are numeric type, explantionation is put at end.
 ---------
 The features selected for this database come from the accelerometer and 
 gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+tBodyAcc-XYZ       
+tGravityAcc-XYZ       
+tBodyAccJerk-XYZ          
+tBodyGyro-XYZ          
+tBodyGyroJerk-XYZ            
+tBodyAccMag             
+tGravityAccMag                  
+tBodyAccJerkMag                 
+tBodyGyroMag                    
+tBodyGyroJerkMag                
+fBodyAcc-XYZ            
+fBodyAccJerk-XYZ                
+fBodyGyro-XYZ           
+fBodyAccMag             
+fBodyAccJerkMag                 
+fBodyGyroMag            
+fBodyGyroJerkMag                
