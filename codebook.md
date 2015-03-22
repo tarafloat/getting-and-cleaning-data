@@ -90,3 +90,24 @@ The following variables are numeric type, explantionation is put at end.
 [66] "fBodyBodyGyroMag.std.."     
 [67] "fBodyBodyGyroJerkMag.mean.."
 [68] "fBodyBodyGyroJerkMag.std.." 
+
+---------
+The features selected for this database come from the accelerometer and 
+gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
