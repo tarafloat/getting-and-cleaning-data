@@ -13,19 +13,17 @@ Step 5 & 6: Uses descriptive activity names to rename the activities in the data
 Step 7:  creates a second independent tidy data set with the average of each variable for each activity and each subject.
 
 # variables in the output tidy data set
-[1] "activity", type=factor,
-        Each person performed six activities:
-                WALKING
-                WALKING_UPSTAIRS
-                WALKING_DOWNSTAIRS
-                SITTING
-                STANDING
-                LAYING
- [2] "subject", type=integer,
-         An identifier of the subject who carried out the experiment
-
-------------------------------------------------------------
- The following variables are numeric type, explantionation is put at end.
+[1] "activity", type=factor,             
+        Each person performed six activities:           
+                WALKING          
+                WALKING_UPSTAIRS              
+                WALKING_DOWNSTAIRS                      
+                SITTING             
+                STANDING                 
+                LAYING                  
+ [2] "subject", type=integer,            
+         An identifier of the subject who carried out the experiment          
+The following variables are numeric type, explantionation is put at end.
  [3] "tBodyAcc.mean...X"          
  [4] "tBodyAcc.mean...Y"          
  [5] "tBodyAcc.mean...Z"          
