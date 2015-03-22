@@ -23,7 +23,7 @@ Step 7:  creates a second independent tidy data set with the average of each var
                 LAYING                  
  [2] "subject", type=integer,            
          An identifier of the subject who carried out the experiment          
-The following variables are numeric type, explantionation is put at end.
+The following variables are numeric type, explantionation is put at end.                  
  [3] "tBodyAcc.mean...X"          
  [4] "tBodyAcc.mean...Y"          
  [5] "tBodyAcc.mean...Z"          
